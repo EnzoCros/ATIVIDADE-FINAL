@@ -1,0 +1,194 @@
+h1 {
+	text-align: center;
+
+	}
+	p {
+	color: #000000 ;
+	text-align: justify;
+	margin: 0;
+	}
+
+	h3{
+
+display: flex;
+
+	}
+
+	.container div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 0;
+ }
+
+ .container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+ }
+
+ .bio{ 
+    margin: 20px;
+    text-align: center;
+ }
+.materias{
+    align-items: center;
+    width: 1400px;
+    border-radius: 200px;
+    margin: 0 auto;
+    text-align: center; 
+    margin-top: 100px; 
+    max-width: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+  }
+  .teste{
+        
+   margin: 0 auto;
+    text-align: center; 
+    margin-top: 100px; 
+    justify-content: space-between;
+  }
+
+  .tecnologia{
+    align-items: center;
+    width: 1400px;
+    border-radius: 200px;
+    margin: 0 auto;
+    text-align: center; 
+    margin-top: 100px; 
+    max-width: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  
+
+  .skills{
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    max-width: 600px;
+    
+    box-shadow: 0 1px 3px
+  
+
+  }
+
+  .L{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+     
+  }
+
+  .M{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+      
+  }
+
+  .CH{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+      
+  }
+
+  .CN{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+      
+  }
+
+  .TI{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+      
+  }
+
+  .automação{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+      
+  }
+
+  .metaverso{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+      
+  }
+
+  .IA{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+      
+  }
+
+  .RA{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+      
+  }
+
+  .machine{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+      
+  }
+  .imagens {
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .imagens div {
+    width: 400px;
+    height: auto;
+    border: 1px solid black;
+    margin: 5px;
+ }
+
+ .imagens img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+ }
+ .textoh4{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+       max-width: 900px;
+        word-wrap: break-word;
+        text-align:start;
+        margin: 0 auto;
+        color: rgb(42, 170, 221) ;
+ }
